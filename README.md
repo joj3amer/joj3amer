@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://risibank.fr/cache/medias/0/0/2/224/full.png" align="center" style="width: 100%" />
+<img src="https://risibank.fr/cache/medias/0/0/2/224/full.png" align="center" style="width: 20%" />
 </div>  
   
 
@@ -90,16 +90,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
 
 <br/>  
 
