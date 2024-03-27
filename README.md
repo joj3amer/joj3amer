@@ -97,4 +97,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
